@@ -13,6 +13,6 @@
      state: present
 
   - name: install tree 
-    apr:
+    apt:
      name: tree
      state: present
