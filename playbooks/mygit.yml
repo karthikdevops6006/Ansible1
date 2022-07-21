@@ -12,7 +12,7 @@
      name: wget
      state: present
 
-  - name: install free 
+  - name: install tree 
     apr:
-     name: free
+     name: tree
      state: present
