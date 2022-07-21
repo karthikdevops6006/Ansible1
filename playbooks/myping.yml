@@ -2,4 +2,4 @@
 - hosts: appserver
   tasks:
   - name: ping to nodes
-    ping:
+    ping: 
